@@ -1,0 +1,26 @@
+#main {
+    max-width: 1140px;
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.header img {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.intro {
+    max-width: 800px;
+    margin: auto;
+}
+
+.cite {
+    text-align: center;
+}
